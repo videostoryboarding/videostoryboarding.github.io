@@ -1,0 +1,10 @@
+<div style='display: flex; flex-direction: column; align-items: center;'> <h1>Ablation Study on ConsiStory Components for Video Generation</h1> 
+    <p style='font-size: 1.5em; font-weight: normal; align-items: center;'>Our method achieves the best balance of motion quality and identity consistency across shots.</p>
+    <p style='font-size: 1.5em; font-weight: normal;'>
+    <strong>Ours (top row)</strong> demonstrates improved motion richness and identity preservation.    <br><br>    
+    <strong>VideoCrafter2 (second row)</strong> shows diverse motion but inconsistent characters. <br><br>
+    <strong>ConsiS (third row)</strong>, a naive implementation of ConsiStory, exhibits impaired identity consistency and motion artifacts. <br><br>
+    <strong>ConsiS +Uncond (fourth row)</strong> adds feature injection to the unconditional denoising, resolving motion artifacts but resulting in reduced motion magnitude and compromised identity. <br><br>
+    <strong>Q ConsiS (fifth row)</strong> couples each frame with a single frame in an anchor video, allowing for some natural motion, though partially synchronized, with improved identity preservation. </p> </div> 
+<iframe src="ablation_cs_stuffed_rabbit/index.html" style="width: 100%; height: 100%;" ></iframe>
+<iframe src="ablation_cs_monster/index.html" style="width: 100%; height: 100%;" ></iframe>
