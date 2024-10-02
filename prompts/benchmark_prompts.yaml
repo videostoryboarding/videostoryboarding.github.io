@@ -1,0 +1,460 @@
+- metadata:
+    subject_token: woman
+    subject_description: A weathered, determined elderly woman
+    image_style: Gritty Spaghetti Western film shot of
+  prompts:
+  - Gritty Spaghetti Western film shot of a weathered, determined elderly woman panning
+    for gold in a shallow, muddy stream
+  - Gritty Spaghetti Western film shot of a weathered, determined elderly woman aiming
+    a revolver at an unseen target, her eyes squinting against the sun
+  - Gritty Spaghetti Western film shot of a weathered, determined elderly woman branding
+    cattle on a dusty ranch, sweat glistening on her brow
+  - Gritty Spaghetti Western film shot of a weathered, determined elderly woman riding
+    skis on snow-covered ground, leaving a trail of dust-like snow behind her
+  - Gritty Spaghetti Western film shot of a weathered, determined elderly woman breaking
+    in a wild mustang in a dusty corral
+- metadata:
+    subject_token: 6-year-old grandmother
+    subject_description: A whimsical blue-haired 6-year-old grandmother
+    image_style: Dynamic camera movement with dramatic lighting, showing
+  prompts:
+  - Dynamic camera movement with dramatic lighting, showing a whimsical blue-haired
+    6-year-old grandmother building a sandcastle that grows into a full-sized palace,
+    the camera rising with the structure
+  - Dynamic camera movement with dramatic lighting, showing a whimsical blue-haired
+    6-year-old grandmother blowing bubbles that contain miniature worlds, the camera
+    diving into one of the bubbles
+  - Dynamic camera movement with dramatic lighting, showing a whimsical blue-haired
+    6-year-old grandmother conjuring colorful magical sparks from her fingertips,
+    the camera swirling around her
+  - Dynamic camera movement with dramatic lighting, showing a whimsical blue-haired
+    6-year-old grandmother planting magic beans that instantly grow into a beanstalk,
+    the camera rapidly ascending with its growth
+  - Dynamic camera movement with dramatic lighting, showing a whimsical blue-haired
+    6-year-old grandmother transforming origami animals into real creatures, the camera
+    circling as they come to life
+- metadata:
+    subject_token: spider
+    subject_description: A tiny, detailed spider
+    image_style: Beautiful digital artwork animation of a macro shot of
+  prompts:
+  - Beautiful digital artwork animation of a macro shot of a tiny, detailed spider
+    surfing on a leaf in a puddle
+  - Beautiful digital artwork animation of a macro shot of a tiny, detailed spider
+    playing chess with an ant
+  - Beautiful digital artwork animation of a macro shot of a tiny, detailed spider
+    spinning a delicate web
+  - Beautiful digital artwork animation of a macro shot of a tiny, detailed spider
+    wearing a top hat and monocle
+  - Beautiful digital artwork animation of a macro shot of a tiny, detailed spider
+    riding a toy car
+- metadata:
+    subject_token: balloon-headed person
+    subject_description: A yellow balloon-headed person
+    image_style: Vibrant motion picture scene of
+  prompts:
+  - Vibrant motion picture scene of a yellow balloon-headed person riding a bicycle
+    down a busy street
+  - Vibrant motion picture scene of a yellow balloon-headed person enthusiastically
+    dancing at a lively party
+  - Vibrant motion picture scene of a yellow balloon-headed person standing in a crowded
+    tube cabin, holding onto a handrail
+  - Vibrant motion picture scene of a yellow balloon-headed person carefully walking
+    through a cactus garden
+  - Vibrant motion picture scene of a yellow balloon-headed person typing on a laptop,
+    their balloon head reflecting on the screen
+- metadata:
+    subject_token: robot
+    subject_description: A cute, expressive robot
+    image_style: Comic book style animation of
+  prompts:
+  - Comic book style animation of a cute, expressive robot playing baseball, up to
+    bat with determination
+  - Comic book style animation of a cute, expressive robot doing an ollie on his skateboard
+    over a flight of stairs
+  - Comic book style animation of a cute, expressive robot playing a guitar solo on
+    stage
+  - Comic book style animation of a cute, expressive robot cooking pancakes in a kitchen
+  - Comic book style animation of a cute, expressive robot planting a tree in a garden
+- metadata:
+    subject_token: girl
+    subject_description: A cheerful 90's anime-style girl
+    image_style: Vibrant 90's anime cartoon animation of
+  prompts:
+  - Vibrant 90's anime cartoon animation of a cheerful 90's anime-style girl throwing
+    a blue frisbee with a graceful spin
+  - Vibrant 90's anime cartoon animation of a cheerful 90's anime-style girl enthusiastically
+    playing Wii in a cozy living room
+  - Vibrant 90's anime cartoon animation of a cheerful 90's anime-style girl riding
+    a skateboard down a street with her hair flowing behind her
+  - Vibrant 90's anime cartoon animation of a cheerful 90's anime-style girl paddling
+    out on her surfboard on a sunny day with sparkling waves
+  - Vibrant 90's anime cartoon animation of a cheerful 90's anime-style girl using
+    a smartphone while standing next to a vending machine
+- metadata:
+    subject_token: cat
+    subject_description: A humanoid cat
+    image_style: Vibrant oil painting animation of
+  prompts:
+  - Vibrant oil painting animation of a humanoid cat walking on a window ledge, peering
+    curiously inside
+  - Vibrant oil painting animation of a humanoid cat dancing salsa, twirling with
+    a red rose in its mouth
+  - "Vibrant oil painting animation of a humanoid cat performing a grand jet\xE9 leap,\
+    \ suspended mid-air"
+  - Vibrant oil painting animation of a humanoid cat chasing a red laser dot across
+    a wooden floor
+  - Vibrant oil painting animation of a humanoid cat driving a miniature car, paws
+    on the steering wheel
+- metadata:
+    subject_token: dinosaur
+    subject_description: A cheerful superhero dinosaur woman with a cape fluttering
+      behind
+    image_style: 3D storybook animation of
+  prompts:
+  - 3D storybook animation of A cheerful superhero dinosaur woman with a cape fluttering
+    behind using super speed to run on water
+  - 3D storybook animation of A cheerful superhero dinosaur woman with a cape fluttering
+    behind deflecting lasers with its shiny scales
+  - 3D storybook animation of A cheerful superhero dinosaur woman with a cape fluttering
+    behind breathing colorful sparkles to create a rainbow
+  - 3D storybook animation of A cheerful superhero dinosaur woman with a cape fluttering
+    behind stretching its neck like elastic to reach a treetop
+  - 3D storybook animation of A cheerful superhero dinosaur woman with a cape fluttering
+    behind shrinking to sneak through a tiny door
+- metadata:
+    subject_token: dog
+    subject_description: An expressive, playful dog
+    image_style: Cinematic slow-motion shot of
+  prompts:
+  - Cinematic slow-motion shot of an expressive, playful dog leaping to catch a frisbee
+    mid-air against a sunset sky
+  - Cinematic slow-motion shot of an expressive, playful dog racing alongside a bicycle,
+    tongue flapping in the wind
+  - Cinematic slow-motion shot of an expressive, playful dog drinking water from a
+    crystal-clear pond, ripples spreading outward
+  - Cinematic slow-motion shot of an expressive, playful dog digging enthusiastically
+    in the sand at a beach
+  - Cinematic slow-motion shot of an expressive, playful dog jumping through a hoop
+    of fire in a circus act
+- metadata:
+    subject_token: stuffed rabbit
+    subject_description: A charming patchwork stuffed rabbit toy
+    image_style: Shaky camcorder footage of
+  prompts:
+  - Shaky camcorder footage of a charming patchwork stuffed rabbit toy surfing on
+    a moving toy train
+  - Shaky camcorder footage of a charming patchwork stuffed rabbit toy bouncing on
+    a trampoline
+  - Shaky camcorder footage of a charming patchwork stuffed rabbit toy eating a banana
+    while sitting on the carpet
+  - Shaky camcorder footage of a charming patchwork stuffed rabbit toy riding a toy
+    bike down a small hill
+  - Shaky camcorder footage of a charming patchwork stuffed rabbit toy tumbling down
+    a spiral staircase made of books
+- metadata:
+    subject_token: car
+    subject_description: A cheerful car with an expressive face
+    image_style: Animated cartoon book illustration of
+  prompts:
+  - Animated cartoon book illustration of a cheerful car with an expressive face planting
+    a garden, using its exhaust to water the flowers
+  - Animated cartoon book illustration of a cheerful car with an expressive face splashing
+    through a giant puddle, creating a rainbow spray
+  - Animated cartoon book illustration of a cheerful car with an expressive face participating
+    in a fashion show, trying on different colorful car covers
+  - Animated cartoon book illustration of a cheerful car with an expressive face competing
+    in a snowboard competition, sliding down a snowy mountain
+  - Animated cartoon book illustration of a cheerful car with an expressive face participating
+    in a science fair, demonstrating a volcano experiment with its exhaust
+- metadata:
+    subject_token: female athlete
+    subject_description: A determined middle-aged female athlete
+    image_style: Award-winning cinematic shot of
+  prompts:
+  - Award-winning cinematic shot of a determined middle-aged female athlete standing
+    atop a podium, her eyes glistening with tears as she receives a gold medal
+  - Award-winning cinematic shot of a determined middle-aged female athlete rock climbing,
+    reaching for a difficult hold with unwavering focus
+  - Award-winning cinematic shot of a determined middle-aged female athlete crossing
+    the finish line of a marathon, arms raised in victory
+  - Award-winning cinematic shot of a determined middle-aged female athlete performing
+    a perfect dive, her body arcing gracefully against a backdrop of spectators
+  - Award-winning cinematic shot of a determined middle-aged female athlete performing
+    a powerful serve in tennis, her face a picture of concentration
+- metadata:
+    subject_token: boy
+    subject_description: A contemplative boy
+    image_style: Animated Starry Night scene of
+  prompts:
+  - Animated Starry Night scene of a contemplative boy releasing lanterns that transform
+    into new stars in the night sky
+  - Animated Starry Night scene of a contemplative boy conducting an orchestra of
+    twinkling stars and swirling clouds
+  - Animated Starry Night scene of a contemplative boy flying a kite shaped like a
+    crescent moon in a gusty, starry sky
+  - Animated Starry Night scene of a contemplative boy collecting fireflies in a jar,
+    their light merging with the stars
+  - Animated Starry Night scene of a contemplative boy solving a puzzle where each
+    piece reveals a different celestial body
+- metadata:
+    subject_token: monkey
+    subject_description: A curious, playful monkey
+    image_style: POV video shot of
+  prompts:
+  - POV video shot of a curious, playful monkey navigating through dense foliage,
+    leaves and branches parting as it moves
+  - POV video shot of a curious, playful monkey swinging upside down, its tail wrapped
+    around a branch, face filling the frame
+  - POV video shot of a curious, playful monkey splashing in a stream, water droplets
+    flying towards the camera
+  - POV video shot of a curious, playful monkey's face as it licks raindrops off leaves,
+    tongue darting in and out
+  - POV video shot of a curious, playful monkey's hands frantically digging in soft
+    soil, unearthing a root
+- metadata:
+    subject_token: dog
+    subject_description: An anthropomorphic dog with human-like qualities
+    image_style: Ultra-wide raytraced render of
+  prompts:
+  - Ultra-wide raytraced render of an anthropomorphic dog with human-like qualities
+    welding metal in a workshop, sparks flying from the torch
+  - Ultra-wide raytraced render of an anthropomorphic dog with human-like qualities
+    breakdancing, spinning on its back with legs in the air
+  - Ultra-wide raytraced render of an anthropomorphic dog with human-like qualities
+    painting a landscape on an easel, paintbrush delicately held in paw
+  - Ultra-wide raytraced render of an anthropomorphic dog with human-like qualities
+    playing a violin in a concert hall, bow gliding across strings
+  - Ultra-wide raytraced render of an anthropomorphic dog with human-like qualities
+    threading a needle, squinting through reading glasses
+- metadata:
+    subject_token: airplane
+    subject_description: an airplane
+    image_style: Intricate papercut illustration of
+  prompts:
+  - Intricate papercut illustration of an airplane playing hide-and-seek among paper
+    cumulus clouds
+  - Intricate papercut illustration of an airplane flying under a paper rainbow arch
+  - Intricate papercut illustration of an airplane rescuing a paper boat from a stormy
+    paper sea
+  - Intricate papercut illustration of an airplane playing limbo under a paper palm
+    tree
+  - Intricate papercut illustration of an airplane fishing for paper fish from a paper
+    pond
+- metadata:
+    subject_token: teenager
+    subject_description: A brooding male gothic teenager
+    image_style: Waist-up wide-angle shot of
+  prompts:
+  - Waist-up wide-angle shot of a brooding male gothic teenager mixing a potion in
+    a cauldron, steam rising around his face
+  - Waist-up wide-angle shot of a brooding male gothic teenager threading a needle
+    to sew a pentagram onto his backpack
+  - Waist-up wide-angle shot of a brooding male gothic teenager reading tarot cards,
+    his eyes fixed on a death card
+  - Waist-up wide-angle shot of a brooding male gothic teenager arranging a collection
+    of crystals and gemstones on an altar
+  - Waist-up wide-angle shot of a brooding male gothic teenager carefully applying
+    fake piercings to his eyebrow and lip
+- metadata:
+    subject_token: teapot
+    subject_description: An intricately decorated porcelain teapot
+    image_style: Grainy Leica film camera shot of
+  prompts:
+  - Grainy Leica film camera shot of an intricately decorated porcelain teapot being
+    carefully restored, a brush delicately touching up its pattern
+  - Grainy Leica film camera shot of an intricately decorated porcelain teapot in
+    the foreground as a steam train rushes by in the background
+  - Grainy Leica film camera shot of an intricately decorated porcelain teapot being
+    uncovered during an archaeological dig, dirt falling away
+  - Grainy Leica film camera shot of an intricately decorated porcelain teapot in
+    a display case as a museum guard walks past, reflected in the glass
+  - Grainy Leica film camera shot of an intricately decorated porcelain teapot being
+    used in a tea ceremony, hands moving gracefully around it
+- metadata:
+    subject_token: bird
+    subject_description: A charming anthropomorphic bird
+    image_style: Unreal Engine animated scene of
+  prompts:
+  - Unreal Engine animated scene of a charming anthropomorphic bird baking cookies
+    in a hollow tree oven
+  - Unreal Engine animated scene of a charming anthropomorphic bird playing hide-and-seek
+    with living trees
+  - Unreal Engine animated scene of a charming anthropomorphic bird riding a roller
+    coaster made of twisting vines
+  - Unreal Engine animated scene of a charming anthropomorphic bird having a pillow
+    fight with animated clouds
+  - Unreal Engine animated scene of a charming anthropomorphic bird conducting an
+    orchestra of singing flowers
+- metadata:
+    subject_token: backpack
+    subject_description: A patched backpack
+    image_style: Multiple-exposure cinematic shot (f/1.8, 85mm) of
+  prompts:
+  - Multiple-exposure cinematic shot (f/1.8, 85mm) of a patched backpack being caught
+    in a sudden downpour, raindrops splattering on its surface
+  - Multiple-exposure cinematic shot (f/1.8, 85mm) of a patched backpack on a chairlift,
+    swaying as it ascends a misty mountain
+  - Multiple-exposure cinematic shot (f/1.8, 85mm) of a patched backpack swinging
+    from a student's shoulder as they rush through a crowded hallway
+  - Multiple-exposure cinematic shot (f/1.8, 85mm) of a patched backpack falling in
+    slow motion, its contents spilling out
+  - Multiple-exposure cinematic shot (f/1.8, 85mm) of a patched backpack on a sled,
+    racing down a snowy hill
+- metadata:
+    subject_token: toddler
+    subject_description: A curious African female toddler with vibrant pink hair
+    image_style: Cinematic sci-fi movie scene of
+  prompts:
+  - Cinematic sci-fi movie scene of a curious African female toddler with vibrant
+    pink hair finger-painting on a smart wall, her artwork coming to life in 3D
+  - Cinematic sci-fi movie scene of a curious African female toddler with vibrant
+    pink hair having a virtual playdate with alien children, their images projected
+    around her
+  - Cinematic sci-fi movie scene of a curious African female toddler with vibrant
+    pink hair trying on holographic outfits that change with a wave of her hand
+  - Cinematic sci-fi movie scene of a curious African female toddler with vibrant
+    pink hair controlling a swarm of tiny cleaning nanobots with hand gestures
+  - Cinematic sci-fi movie scene of a curious African female toddler with vibrant
+    pink hair wearing a miniature spacesuit, taking her first steps on an alien planet
+- metadata:
+    subject_token: baby
+    subject_description: A charming anthropomorphic Hindu superhero baby
+    image_style: Vintage animated gif of cut-and-paste colorful children's book illustration
+      showing
+  prompts:
+  - Vintage animated gif of cut-and-paste colorful children's book illustration showing
+    a charming anthropomorphic Hindu superhero baby playing hide-and-seek with the
+    sun
+  - Vintage animated gif of cut-and-paste colorful children's book illustration showing
+    a charming anthropomorphic Hindu superhero baby taming a cut-out tiger with a
+    gentle touch
+  - Vintage animated gif of cut-and-paste colorful children's book illustration showing
+    a charming anthropomorphic Hindu superhero baby playing a sitar with magical musical
+    notes
+  - Vintage animated gif of cut-and-paste colorful children's book illustration showing
+    a charming anthropomorphic Hindu superhero baby building a temple out of floating
+    blocks
+  - Vintage animated gif of cut-and-paste colorful children's book illustration showing
+    a charming anthropomorphic Hindu superhero baby conducting a river with a lotus
+    wand
+- metadata:
+    subject_token: pot
+    subject_description: A ceramic pot with vibrant floral decoration
+    image_style: 90's sitcom scene of
+  prompts:
+  - 90's sitcom scene of a ceramic pot with vibrant floral decoration on a skateboard,
+    rolling down a hallway as characters dive out of its way
+  - 90's sitcom scene of a ceramic pot with vibrant floral decoration on a malfunctioning
+    escalator, characters scrambling around it
+  - 90's sitcom scene of a ceramic pot with vibrant floral decoration on a conveyor
+    belt in a wacky factory scene, characters scrambling to catch it
+  - 90's sitcom scene of a ceramic pot with vibrant floral decoration in the middle
+    of a chaotic pillow fight, feathers flying around it
+  - 90's sitcom scene of a ceramic pot with vibrant floral decoration on a model train
+    set, chugging through a miniature town
+- metadata:
+    subject_token: turtle
+    subject_description: A charming anthropomorphic origami turtle
+    image_style: Stop-motion origami animation of
+  prompts:
+  - Stop-motion origami animation of a charming anthropomorphic origami turtle climbing
+    a staircase made of folded paper
+  - Stop-motion origami animation of a charming anthropomorphic origami turtle unfolding
+    a paper ladder from its shell to climb a bookshelf
+  - Stop-motion origami animation of a charming anthropomorphic origami turtle creating
+    an origami rain shelter during a shower of paper raindrops
+  - Stop-motion origami animation of a charming anthropomorphic origami turtle balancing
+    on a floating origami lily pad
+  - Stop-motion origami animation of a charming anthropomorphic origami turtle transforming
+    its shell into a hot air balloon basket
+- metadata:
+    subject_token: sloth
+    subject_description: A cheerful anthropomorphic Lego sloth
+    image_style: Lego brickfilm stop-motion scene of
+  prompts:
+  - Lego brickfilm stop-motion scene of a cheerful anthropomorphic Lego sloth trying
+    to catch a butterfly made of transparent Lego pieces
+  - Lego brickfilm stop-motion scene of a cheerful anthropomorphic Lego sloth carefully
+    stacking a tower of Lego marshmallows
+  - Lego brickfilm stop-motion scene of a cheerful anthropomorphic Lego sloth participating
+    in a slow-motion Lego car race
+  - Lego brickfilm stop-motion scene of a cheerful anthropomorphic Lego sloth trying
+    to blow out candles on a Lego birthday cake
+  - Lego brickfilm stop-motion scene of a cheerful anthropomorphic Lego sloth slowly
+    typing on a Lego computer, one key at a time
+- metadata:
+    subject_token: tiger
+    subject_description: A playful anthropomorphic clay tiger
+    image_style: Clay animation stop-motion scene of
+  prompts:
+  - Clay animation stop-motion scene of a playful anthropomorphic clay tiger attempting
+    to eat bamboo, looking confused at the unusual meal
+  - Clay animation stop-motion scene of a playful anthropomorphic clay tiger attempting
+    to take a selfie with a clay smartphone
+  - Clay animation stop-motion scene of a playful anthropomorphic clay tiger planting
+    a garden of clay flowers
+  - Clay animation stop-motion scene of a playful anthropomorphic clay tiger ice skating,
+    leaving claw marks on the rink
+  - Clay animation stop-motion scene of a playful anthropomorphic clay tiger giving
+    a piggyback ride to a small clay mouse
+- metadata:
+    subject_token: muppet
+    subject_description: A charming and fuzzy Muppet character
+    image_style: 80's Sesame Street scene of
+  prompts:
+  - 80's Sesame Street scene of a charming and fuzzy Muppet character excitedly meeting
+    a spotted dalmatian, both wagging happily
+  - 80's Sesame Street scene of a charming and fuzzy Muppet character attempting to
+    do aerobics in leg warmers and a headband
+  - 80's Sesame Street scene of a charming and fuzzy Muppet character playing a life-sized
+    board game with giant dice
+  - 80's Sesame Street scene of a charming and fuzzy Muppet character attempting to
+    roller skate, wobbling and flailing its arms
+  - 80's Sesame Street scene of a charming and fuzzy Muppet character attempting to
+    do magic tricks, accidentally pulling endless scarves from its sleeve
+- metadata:
+    subject_token: chair
+    subject_description: An IKEA chair
+    image_style: 4K cinematic shot with intricate detail of
+  prompts:
+  - 4K cinematic shot with intricate detail of an IKEA chair as it's carefully positioned
+    in a museum exhibit, curators fussing over its placement
+  - 4K cinematic shot with intricate detail of an IKEA chair on a movie set, crew
+    members bustling around it between takes
+  - 4K cinematic shot with intricate detail of an IKEA chair in a flooded room, water
+    slowly rising around its legs
+  - 4K cinematic shot with intricate detail of an IKEA chair in a room being demolished,
+    dust and debris falling around it
+  - 4K cinematic shot with intricate detail of an IKEA chair on a rotating glass floor,
+    its reflection creating a mesmerizing double image
+- metadata:
+    subject_token: bicycle
+    subject_description: An ultra-realistic 3D voxel art bicycle
+    image_style: Stop-motion animation of
+  prompts:
+  - Stop-motion animation of an ultra-realistic 3D voxel art bicycle as a voxel rainstorm
+    falls around it, droplets bouncing off its frame
+  - Stop-motion animation of an ultra-realistic 3D voxel art bicycle being slowly
+    enveloped by a growing voxel forest
+  - Stop-motion animation of an ultra-realistic 3D voxel art bicycle with voxel birds
+    perching on and flying off its various parts
+  - Stop-motion animation of an ultra-realistic 3D voxel art bicycle with its reflection
+    in a puddle rippling and distorting
+  - Stop-motion animation of an ultra-realistic 3D voxel art bicycle as a voxel earthquake
+    shakes the ground around it
+- metadata:
+    subject_token: monster
+    subject_description: A lovable, quirky cartoon monster
+    image_style: 2D cartoon caricature animation of
+  prompts:
+  - 2D cartoon caricature animation of a lovable, quirky cartoon monster attempting
+    to ride a bicycle, its extra limbs getting caught in the spokes
+  - 2D cartoon caricature animation of a lovable, quirky cartoon monster attempting
+    to do laundry, getting tangled in clothes from the dryer
+  - 2D cartoon caricature animation of a lovable, quirky cartoon monster trying to
+    read a newspaper, its multiple eyes focusing on different sections
+  - 2D cartoon caricature animation of a lovable, quirky cartoon monster attempting
+    to use a treadmill, its many legs moving at different speeds
+  - 2D cartoon caricature animation of a lovable, quirky cartoon monster trying to
+    take a nap in a hammock, constantly falling out due to its odd shape
