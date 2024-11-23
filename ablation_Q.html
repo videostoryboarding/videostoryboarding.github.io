@@ -1,3 +1,56 @@
+
+<style>
+.iframe-container {
+    width: 100%;
+}
+
+.responsive-iframe {
+    width: 100%;
+    height: 1700px;
+    border: none;
+    overflow: hidden;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const iframes = document.querySelectorAll('.responsive-iframe');
+    let resizeTimeout;
+
+    function adjustIframeHeights() {
+        iframes.forEach(iframe => {
+            try {
+                const contentWidth = iframe.contentWindow.document.documentElement.scrollWidth;
+                const containerWidth = iframe.getBoundingClientRect().width;
+
+                // If content needs to wrap (content wider than container)
+                if (contentWidth > containerWidth) {
+                    iframe.style.height = 'auto';
+                    iframe.style.height = iframe.contentWindow.document.documentElement.scrollHeight + 'px';
+                    iframe.style.overflow = 'auto';
+                } else {
+                    iframe.style.height = '1900px';
+                    iframe.style.overflow = 'hidden';
+                }
+            } catch(e) {
+                console.warn('Cannot access iframe content:', e);
+            }
+        });
+    }
+
+    // Add load event listener to each iframe
+    iframes.forEach(iframe => {
+        iframe.addEventListener('load', adjustIframeHeights);
+    });
+
+    // Handle window resize with debouncing
+    window.addEventListener('resize', function() {
+        clearTimeout(resizeTimeout);
+        resizeTimeout = setTimeout(adjustIframeHeights, 250);
+    });
+});
+</script>
+
 <div style='display: flex; flex-direction: column; align-items: center;'> <h1>Q injection Analysis - comparing Q token intervention strategies</h1>
      <p style='font-size: 1.5em; font-weight: normal;'>
         <strong>Ours</strong> (top row) balances character consistency and natural motion. <br><br>
@@ -5,5 +58,5 @@
      <strong>Full Q Preservation</strong> (third row) directly injects Q tokens from the vanilla model without flow-based processing, preserving original motion but losing character consistency.  <br><br>
     <strong>No Q Intervention</strong> (bottom row) maintains strong character consistency but suffers from motion degradation and synchronization across shots. <br><br>
 </p> </div>
-<iframe src="ablation_Q_muppet/index.html" style="width: 100%; height: 100%;" ></iframe>
-<iframe src="ablation_Q_dog/index.html" style="width: 100%; height: 100%;" ></iframe>
+<iframe src="ablation_Q_muppet/index.html" scrolling="auto" class="responsive-iframe"></iframe>
+<iframe src="ablation_Q_dog/index.html" scrolling="auto" class="responsive-iframe"></iframe>

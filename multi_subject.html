@@ -1,4 +1,5 @@
 
+
 <style>
 .iframe-container {
     width: 100%;
@@ -6,7 +7,7 @@
 
 .responsive-iframe {
     width: 100%;
-    height: 600px;
+    height: 500px;
     border: none;
     overflow: hidden;
 }
@@ -22,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
             try {
                 const contentWidth = iframe.contentWindow.document.documentElement.scrollWidth;
                 const containerWidth = iframe.getBoundingClientRect().width;
-
+                
                 // If content needs to wrap (content wider than container)
                 if (contentWidth > containerWidth) {
                     iframe.style.height = 'auto';
@@ -52,8 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-<div style='display: flex; flex-direction: column; align-items: center;'> <h1>Consistent Video Storyboarding</h1> <p style='font-size: 1.5em; font-weight: normal;'>Our method generates video shot sequences from input prompts, ensuring consistent subjects across shots.</p> </div>
+<div style='display: flex; flex-direction: column; align-items: center;'> <h1>Multi Subject</h1> <p style='font-size: 1.5em; font-weight: normal;'> By prompting the zero-shot mask with two subjects, our method can render two consistent subjects in a scene.</p> </div>
 
-<iframe src="teaser_dog/index.html" scrolling="auto" class="responsive-iframe"></iframe>
-<iframe src="teaser_balloon/index.html" scrolling="auto" class="responsive-iframe"></iframe>
-<iframe src="teaser_toddler/index.html" scrolling="auto" class="responsive-iframe"></iframe>
+<iframe src="multi_subject_multi_girl_owl/index.html" scrolling="auto" class="responsive-iframe"></iframe>
+<iframe src="multi_subject_multi_boy_teddy/index.html" scrolling="auto" class="responsive-iframe"></iframe>
