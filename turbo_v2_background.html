@@ -1,0 +1,59 @@
+
+
+<style>
+.iframe-container {
+    width: 100%;
+}
+
+.responsive-iframe {
+    width: 100%;
+    height: 400px;
+    border: none;
+    overflow: hidden;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const iframes = document.querySelectorAll('.responsive-iframe');
+    let resizeTimeout;
+
+    function adjustIframeHeights() {
+        iframes.forEach(iframe => {
+            try {
+                const contentWidth = iframe.contentWindow.document.documentElement.scrollWidth;
+                const containerWidth = iframe.getBoundingClientRect().width;
+                
+                // If content needs to wrap (content wider than container)
+                if (contentWidth > containerWidth) {
+                    iframe.style.height = 'auto';
+                    iframe.style.height = iframe.contentWindow.document.documentElement.scrollHeight + 'px';
+                    iframe.style.overflow = 'auto';
+                } else {
+                    iframe.style.height = '1900px';
+                    iframe.style.overflow = 'hidden';
+                }
+            } catch(e) {
+                console.warn('Cannot access iframe content:', e);
+            }
+        });
+    }
+
+    // Add load event listener to each iframe
+    iframes.forEach(iframe => {
+        iframe.addEventListener('load', adjustIframeHeights);
+    });
+
+    // Handle window resize with debouncing
+    window.addEventListener('resize', function() {
+        clearTimeout(resizeTimeout);
+        resizeTimeout = setTimeout(adjustIframeHeights, 250);
+    });
+});
+</script>
+
+
+<div style='display: flex; flex-direction: column; align-items: center;'> <h1> Background details in dynamic video-models </h1> <p style='font-size: 1.5em; font-weight: normal;'>  </p> </div>
+
+<iframe src="turbo_v2_background_rabbit/index.html" scrolling="auto" class="responsive-iframe"></iframe>
+<iframe src="turbo_v2_background_muppet/index.html" scrolling="auto" class="responsive-iframe"></iframe>
